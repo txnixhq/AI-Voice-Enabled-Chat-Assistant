@@ -1,4 +1,4 @@
-# AI-Voice-Enabled-Chat-Assistant
+# AI Voice-Enabled Chat Assistant
 
 ## Overview
 This project is an AI-powered voice assistant that enables real-time interaction with users via a WebSocket-based interface. It leverages OpenAI's language models for text-based responses and text-to-speech (TTS) for voice output. The system is built to handle multi-turn conversations, process user messages efficiently, and return responses in both text and voice formats.
